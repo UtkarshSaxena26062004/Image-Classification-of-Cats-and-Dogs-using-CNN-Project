@@ -28,9 +28,10 @@ Also, this project demonstrates how to build and train a **Convolutional Neural 
 import os
 os.environ['KAGGLE_CONFIG_DIR'] = '/content'
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 🧠 Model Architecture
+
 
 model = Sequential()
 
